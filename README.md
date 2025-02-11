@@ -53,4 +53,4 @@ This research examines the relationship between an *educated workforce with acce
 
 ![Thesis 19](https://github.com/user-attachments/assets/e8cd1bbb-e603-4b82-8725-c7473b13ac44)
 
-#### Thank you for exploring this project, Feel free to hear your thoughts, insights, or any feedback! Let’s keep the discussion going!
+### Thank you for exploring this project, Feel free to hear your thoughts, insights, or any feedback! Let’s keep the discussion going!
