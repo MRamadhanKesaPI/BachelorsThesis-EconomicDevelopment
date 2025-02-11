@@ -1,7 +1,9 @@
 # Impact of an Educated Workforce on Economic Growth in the Era of Digitalization
 
 ## Introduction
-**Welcome to my thesis project repository!** This research examines the relationship between an *educated workforce with access of the internet and government spending affect economic growth economic growth* in Indonesia, Malaysia, Thailand, and Vietnam, particularly in the digital era. Through data analysis, this study identifies key factors influencing economic development and provides policy recommendations for sustainable growth.
+Welcome to my thesis project repository! 
+
+This research examines the relationship between an *educated workforce with access of the internet and government spending affect economic growth economic growth* in Indonesia, Malaysia, Thailand, and Vietnam, particularly in the digital era. Through data analysis, this study identifies key factors influencing economic development and provides policy recommendations for sustainable growth.
 
 ## Key Findings
 - Internet access has a positive and significant impact on economic growth in the four ASEAN countries.
@@ -13,7 +15,7 @@
 - **Support Workforce Growth** – Policies should encourage more people to join the workforce and provide better education & training.
 - **Invest in Education** – Governments should improve schools and universities to give equal education opportunities to everyone.
 
-#### The full presentation is available in this repository. Feel free to explore and reach out if you have any questions or feedback!
+#### The full presentation is available in this repository. 
   
 ![Thesis 1](https://github.com/user-attachments/assets/70dede29-00cc-4681-8e19-793207c34907)
 
