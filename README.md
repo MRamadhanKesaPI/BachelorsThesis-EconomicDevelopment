@@ -1,4 +1,4 @@
-# Impact of an Educated Workforce on Economic Growth in the Era of Digitalization
+# The Impact of an Educated Workforce on Economic Growth: A Regression Analysis
 
 ## Introduction
 Welcome to my repository! 
